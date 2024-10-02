@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lester Marcelo</h1>
-<h3 align="center">A person who wants to create a game one day.</h3>
+<h1 align="center">👋 Hi, I'm Lester Marcelo</h1>
+<h3 >Welcome! to my Github Profile</h3>
 
 - 🌱 I’m currently learning **C#, Unity, and Jira**
 
