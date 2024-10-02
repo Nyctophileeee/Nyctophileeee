@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Lester Marcelo</h1>
-<h3 >Welcome! to my Github Profile</h3>
+<h1 align="center">👋 Hi! I'm Lester Marcelo</h1>
+<h3 >Welcome to my Github Profile</h3>
 
 - 🌱 I’m currently learning **C#, Unity, and Jira**
 
