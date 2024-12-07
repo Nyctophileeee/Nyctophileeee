@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi! I'm Lester Marcelo</h1>
 <h3 >Welcome to my Github Profile</h3>
 
-- 🌱 I’m currently learning **Automation Testing Tool like Playwrigth**
+- 🌱 I’m currently learning **Automation Testing Tool like Playwright**
 
 - 📫 How to reach me **nick.marceeelo@gmail.com**
 
